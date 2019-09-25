@@ -38,6 +38,7 @@ header img#arrow {
 footer {
   text-align: center;
   padding-top: 60px;
+  background-image: url('../img/bg.svg');
 }
 
 footer > p {
