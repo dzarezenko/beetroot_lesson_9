@@ -1,0 +1,15 @@
+<svg id="bg.svg" xmlns="http://www.w3.org/2000/svg" width="1920" height="1159" viewBox="0 0 1920 1159">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f1f1f1;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="bg1.svg" class="cls-1" d="M-50,1016L330,734,1560,2260l638-790L1278,752-128,1788l2118-718L496,2236-48,1472" transform="translate(0 -733)"/>
+  <path id="_2" data-name="#2" class="cls-1" d="M-50.453,3455.96L329.481,3174,1559.27,4699.81l637.89-789.9L1277.32,3192-128.439,4227.87,1989.19,3509.96,495.452,4675.82-48.453,3911.91" transform="translate(0 -733)"/>
+  <path id="_3" data-name="#3" class="cls-1" d="M-50.453,5135.96L329.481,4854,1559.27,6379.81l637.89-789.9L1277.32,4872-128.439,5907.87,1989.19,5189.96,495.452,6355.82-48.453,5591.91" transform="translate(0 -733)"/>
+</svg>
