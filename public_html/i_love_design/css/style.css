@@ -1,7 +1,79 @@
 body {
   background-color: #ffffff;
+  margin: 0;
+  font-family: "Myriad Pro", sans-serif;
+}
+
+h1 {
+  font-size: 80pt;
+  text-transform: uppercase;
+  font-weight: normal;
 }
 
 header {
   background-color: #23232e;
+  text-align: center;
+  color: #ffffff;
+}
+
+header img#logo {
+  margin-top: 80px;
+}
+
+header h1 {
+  color: #ffffff;
+  margin-top: 180px;
+  margin-bottom: 70px;
+}
+
+header p {
+  font-size: 18pt;
+}
+
+header img#arrow {
+  margin-top: 190px;
+  margin-bottom: 50px;
+}
+
+footer {
+  text-align: center;
+  padding-top: 60px;
+}
+
+footer > p {
+  display: block;
+  width: 870px;
+  margin: 0 auto;
+  margin-top: 60px;
+  font-size: 30pt;
+  font-weight: 100;
+  text-align: center;
+  color: #464b4f;
+}
+
+footer h1 {
+  margin-top: 125px;
+  margin-bottom: 100px;
+}
+
+footer > div {
+  display: flex;
+  width: 930px;
+  margin: 0 auto;
+  font-size: 18pt;
+}
+
+div.skill {
+  display: inline-block;
+  padding: 10px;
+}
+
+div.skill h2 {
+  text-align: left;
+  color: #464b4f;
+}
+
+div.skill p {
+  text-align: left;
+  color: #888a8b;
 }
