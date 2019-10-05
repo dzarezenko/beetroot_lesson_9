@@ -17,6 +17,8 @@ header {
   background-position: center;
   background-size: cover;
   color: white;
+  display: flex;
+  flex-direction: column;
 }
 header nav {
   width: 100%;
@@ -33,6 +35,7 @@ header nav {
 }
 header nav #menu {
   text-transform: uppercase;
+  padding-right: 210px;
 
 }
 header nav #menu span {
@@ -40,4 +43,43 @@ header nav #menu span {
 }
 header nav > a {
   flex-grow: 2;
+  padding-left: 210px;
+}
+
+#header-content {
+  display: flex;
+  flex-direction: column;
+  margin: auto auto;
+  text-align: center;
+}
+#header-content div:nth-child(1) {
+  font-size: 36pt;
+  font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
+  color: #eadddb;
+}
+#header-content div:nth-child(2) {
+  font-size: 100pt;
+  font-family: "Myriad Pro", sans-serif;
+  letter-spacing: 0.05em;
+
+  padding-top: 20px;
+}
+#header-content div:nth-child(3) {
+  padding-top: 40px;
+}
+#header-content div:nth-child(3) a {
+  font-size: 18pt;
+  font-family: "Myriad Pro", sans-serif;
+  letter-spacing: 0.025em;
+
+  border: 3px solid #fff;
+  padding: 20px 85px;
+}
+#header-content div:nth-child(4) {
+  font-size: 14pt;
+  font-family: "Myriad Pro", sans-serif;
+  letter-spacing: 0.05em;
+
+  padding-top: 80px;
 }
