@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dzarezenko/beetroot_lesson_9/issues"
   },
-  "homepage": "https://github.com/dzarezenko/beetroot_lesson_9#readme"
+  "homepage": "https://github.com/dzarezenko/beetroot_lesson_9#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
