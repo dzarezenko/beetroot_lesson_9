@@ -1,0 +1,23 @@
+{
+  "name": "beetroot_lesson_9",
+  "version": "1.0.0",
+  "description": "Gulp example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzarezenko/beetroot_lesson_9.git"
+  },
+  "keywords": [
+    "gulp",
+    "scss"
+  ],
+  "author": "Dmytro Zarezenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzarezenko/beetroot_lesson_9/issues"
+  },
+  "homepage": "https://github.com/dzarezenko/beetroot_lesson_9#readme"
+}
