@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dzarezenko/beetroot_lesson_9#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
   }
 }
